@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.databricks:spark-csv_2.11:1.5.0" type="repository">
+    <properties maven-id="com.databricks:spark-csv_2.11:1.5.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spark-csv_2.11-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-csv-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/univocity-parsers-1.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
